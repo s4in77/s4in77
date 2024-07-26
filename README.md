@@ -1,16 +1,25 @@
-## Hi there 👋
+# <div align="center"> Hi there 👋 I'm Jeferson, a Network Security Professional!</div>
 
-<!--
-**s4in77/s4in77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🌍 I'm from São Paulo, Brazil
+- 💬 If you have any question or just wanna talk about network security, message me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Programming Skill Set
+
+<div>
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+</div>
+
+## Github Stats
+
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=s4in77&show_icons=true&count_private=true&hide_border=true" />
+  
+  <img width="435px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4in77&hide_border=true&layout=compact"  />
+</div>
+
+
+
