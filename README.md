@@ -16,9 +16,9 @@
 ## Github Stats
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=s4in77&show_icons=true&count_private=true&hide_border=true" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=s4in77&show_icons=true&count_private=true&hide_border=true" />
   
-  <img width="435px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4in77&hide_border=true&layout=compact"  />
+  <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4in77&hide_border=true&layout=compact"  />
 </div>
 
 
